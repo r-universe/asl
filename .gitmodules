@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Rssa"]
+	path = Rssa
+	url = https://github.com/asl/rssa
+	shallow = true
+	registered = true
+[submodule "svd"]
+	path = svd
+	url = https://github.com/asl/svd
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "Rssa",
+    "oncran": true
+  },
+  {
+    "package": "svd",
+    "oncran": true
+  }
+]
